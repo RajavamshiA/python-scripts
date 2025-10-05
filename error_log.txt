@@ -1,0 +1,10 @@
+INFO: System boot completed
+ERROR: Failed to load configuration file
+WARNING: Low disk space on /dev/sda1
+INFO: User login successful
+ERROR: Unable to connect to database
+INFO: Scheduled backup started
+ERROR: File not found: /var/log/app.log
+WARNING: High memory usage detected
+INFO: System shutdown initiated
+ERROR: Permission denied while accessing /etc/passwd
